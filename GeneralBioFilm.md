@@ -1,5 +1,5 @@
-# Andrew Somers' Biography
-This bio is a general overview, weighted toward film technology.
+# Andrew Somers Biography
+This bio is a brief general overview, weighted toward film and digital technology.
 
 ## Early Years
 Andrew Somers became interested in visual and performing arts & sciences at a very early age, **starting with photography at age 8** with his first Kodak Brownie camera in the early 1970s. His school placed him in an experimental **program for gifted children**, where he attended afternoon classes at Westminster college once a week, developing skills still used as** a life-long learner**. By age 10 he wrote, drew, and animated his first animated short, shot on Super8 film.
@@ -26,3 +26,5 @@ As an actor and voiceover artist, he's a member of the **Screen Actor's Guild**,
 
 ### _But the Squirrels Tho_
 He writes articles on filmmaking technology, color, imaging, and typography for industry trade publications, and gives seminars and leads discussion groups on film related technologies, with an emphasis on digital filmmaking and post production. He was formerly a columnist for the New York Times' About.com sites, where he wrote a column on civil rights, constitutional law, and civil liberties. His other interests include industrial design, inventing, writing, flying, restoring old cars & old appliances, and cats.
+
+
