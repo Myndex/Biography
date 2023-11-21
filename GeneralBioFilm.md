@@ -28,7 +28,9 @@ As an actor and voiceover artist, he's a member of the **Screen Actor's Guild**,
 He writes articles on filmmaking technology, color, imaging, and typography for industry trade publications, and gives seminars and leads discussion groups on film related technologies, with an emphasis on digital filmmaking and post production. He was formerly a columnist for the New York Times' About.com sites, where he wrote a column on civil rights, constitutional law, and civil liberties. His other interests include industrial design, invention, writing, flying, restoring old cars & old appliances, and cats.
 
 ## Current Focus
-Andrew is conducting research and investigations into human vision, contrast, and color perception. He is developing leading edge methods and guidelines for future standards for content designers, aimed toward improving readability of text and providing greater visual accessibility for displays and devices. He is currently Director of Research for [Inclusive Reading Technologies, Inc.][1], A California non-profit. [Orcid: 0000-0001-6574-3997][2] • [LinkedIn][3]
+Andrew is conducting research and investigations into human vision, contrast, and color perception. He is developing leading edge methods and guidelines for future standards for content designers, aimed toward improving readability of text and providing greater visual accessibility for displays and devices. He is currently Director of Research for [Inclusive Reading Technologies, Inc.][1], A California non-profit. 
+- [Orcid: 0000-0001-6574-3997][2]
+- [LinkedIn][3]
 
 [1]: https://readtech.org/ARC/
 [2]: https://orcid.org/0000-0001-6574-3997
