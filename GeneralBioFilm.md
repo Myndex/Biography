@@ -1,5 +1,5 @@
 # Andrew Somers Biography
-This bio is a brief general overview, weighted toward film and digital technology.
+A brief general overview, with discussion weighted toward film & digital technology.
 
 ## Early Years
 Andrew Somers became interested in visual and performing arts & sciences at a very early age, **starting with photography at age 8** with his first Kodak Brownie camera in the early 1970s. His school placed him in an experimental **program for gifted children**, where he attended afternoon classes at Westminster college once a week, developing skills still used as** a life-long learner**. By age 10 he wrote, drew, and animated his first animated short, shot on Super8 film.
@@ -10,7 +10,7 @@ Some years before the IBM PC, Andrew was **introduced to computer programming** 
 As a teenager, Andrew played a Miraphone in the local symphony orchestra, and worked in the layout/production department of a small newspaper. At Western Washington University, Andrew became involved at the college radio station, getting his first broadcasting license in 1979. There he learned multi-track recording, and actively pursued performing arts, playing in Summer Stock before entering professional broadcast radio, thanks to the guidance from his friend Glenn Beck.
 
 ## Broadcasting
-For much of the 1980s, he worked in broadcast radio. Hired not only for his skills in news gathering, writing & producing radio content, but also for his skills in broadcast engineering. This led to a **position as Chief Engineer** for an AM/FM combo in Southern California, and joining the **Society of Broadcast Engineers**. Shortly thereafter, a local television station (KADY) brought him on to work with the news department, and he found additional engineering work with a satellite up-link facility.
+For much of the 1980s, he worked in broadcast radio. Engaged not only for his skills in news gathering, writing & producing radio content, but also for his skills in broadcast engineering. This led to a **position as Chief Engineer** for an AM/FM combo in Southern California, and joining the **Society of Broadcast Engineers**. Shortly thereafter, a local television station (KADY) brought him on to work with the news department, and he found additional engineering work with a satellite up-link facility.
 
 ### _Move to Television_
 But Andrew recognized that he needed greater creative challenges. KADY was handling post-production for a syndicated television program (GLOW), and when he was offered a **creative position in sound and music** for the show, he jumped at the chance. This was his "break" into television and film, circa 1988. This led to his first professional credits as a **Director of Photography** with the same production company. He has since developed a lengthy list of credits and awards, including **three Emmy awards**, two of which were for supervising sound designer for **"Beakman's World"** (CBS).
@@ -25,6 +25,11 @@ By the late 1990's digital picture editorial was becoming the rage. Andrew rode 
 As an actor and voiceover artist, he's a member of the **Screen Actor's Guild**, and is cast most often for his commanding presence. He's a member of the **Editor's Guild** in Hollywood as a film editor and visual effects supervisor, and works on major studio feature films. Also member of **Academy of Television Arts and Sciences**, and formerly, industry advisor and director of technology for the non-profit **Filmmaker's Alliance**.
 
 ### _But the Squirrels Tho_
-He writes articles on filmmaking technology, color, imaging, and typography for industry trade publications, and gives seminars and leads discussion groups on film related technologies, with an emphasis on digital filmmaking and post production. He was formerly a columnist for the New York Times' About.com sites, where he wrote a column on civil rights, constitutional law, and civil liberties. His other interests include industrial design, inventing, writing, flying, restoring old cars & old appliances, and cats.
+He writes articles on filmmaking technology, color, imaging, and typography for industry trade publications, and gives seminars and leads discussion groups on film related technologies, with an emphasis on digital filmmaking and post production. He was formerly a columnist for the New York Times' About.com sites, where he wrote a column on civil rights, constitutional law, and civil liberties. His other interests include industrial design, invention, writing, flying, restoring old cars & old appliances, and cats.
 
+## Current Focus
+Andrew is conducting research and investigations into human vision, contrast, and color perception. He is developing leading edge methods and guidelines for future standards for content designers, aimed toward improving readability of text and providing greater visual accessibility for displays and devices. He is currently Director of Research for [Inclusive Reading Technologies, Inc.][1], A California non-profit. [Orcid: 0000-0001-6574-3997][2] • [LinkedIn][3]
 
+[1]: https://readtech.org/ARC/
+[2]: https://orcid.org/0000-0001-6574-3997
+[3]: https://www.linkedin.com/in/andrew-m-somers/
