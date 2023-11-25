@@ -2,7 +2,7 @@
 A brief general overview, with discussion weighted toward film & digital technology.
 
 ## Early Years
-Andrew Somers became interested in visual and performing arts & sciences at a very early age, **starting with photography at age 8** with his first Kodak Brownie camera in the early 1970s. His school placed him in an experimental **program for gifted children**, where he attended afternoon classes at Westminster college once a week, developing skills still used as** a life-long learner**. By age 10 he wrote, drew, and animated his first animated short, shot on Super8 film.
+Andrew Somers became interested in visual and performing arts & sciences at a very early age, **starting with photography at age 8** with his first Kodak Brownie camera in the early 1970s. His school placed him in an experimental **program for gifted children**, where he attended afternoon classes at Westminster college once a week, developing skills still used as **a life-long learner**. By age 10 he wrote, drew, and animated his first animated short, shot on Super8 film.
 
 Some years before the IBM PC, Andrew was **introduced to computer programming** via teletype to the local college mainframe (line numbered Fortran IV & BASIC). This was also the era of experimental electronic music, and in learning to play a MiniMoog, Andrew **realized the potentials for merging technology and art**, which became the underlying theme of his life's work.
 
