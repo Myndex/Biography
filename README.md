@@ -1,6 +1,6 @@
 # Biography
 Personal biography and background information regarding Andrew Somers.
 
-## Table of Content
+## Table of Contents
 
 1. [General overview, film technology weighted](https://github.com/Myndex/Biography/blob/main/GeneralBioFilm.md#andrew-somers-biography).
