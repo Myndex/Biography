@@ -30,13 +30,13 @@ He writes articles on filmmaking technology, color, imaging, and typography for 
 ## Current Focus
 Andrew is conducting research and investigations into human vision, contrast, and color perception—his life-long passion and hyperfocus. He is developing leading edge methods and guidelines for future standards for content designers, aimed toward improving readability of text and providing greater visual accessibility for displays and devices. He is currently Director of Research for [Inclusive Reading Technologies, Inc.][1], a California non-profit. 
 - [TangledWeb.xyz][2] a blog on information technology and web design.
-- [Orcid reference: 0000-0001-6574-3997][2]
-- [LinkedIn Profile][3]
-- [APCA Linktree of resources][4]
+- [Orcid reference: 0000-0001-6574-3997][3]
+- [LinkedIn Profile][4]
+- [APCA Linktree of resources][5]
 
 
 [1]: https://readtech.org/ARC/
 [2]: https://tangledweb.xyz
 [3]: https://orcid.org/0000-0001-6574-3997
 [4]: https://www.linkedin.com/in/andrew-m-somers/
-[4]: https://linktr.ee/Myndex/
+[5]: https://linktr.ee/Myndex/
