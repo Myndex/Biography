@@ -7,4 +7,4 @@ Personal biography and background information regarding Andrew Somers.
     - Brief bio covering formative years to present, with a focus on technologies.
   
 2. [Short bio for Accessibility](ShortA11yBio.md)
-    - Short < 1000 character / 143 word bio, aimed at accessibility (A11y).
+    - Short < 1000 character / 143 word bio, aimed at accessibility (a11y).
