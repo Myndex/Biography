@@ -1,4 +1,4 @@
-Andrew Somers is Director of Research at [Inclusive Reading Technologies, Inc.](1), a California nonprofit focused on improving readability for all. He is the creator of the Accessible Perceptual Contrast Algorithm (APCA) and lead author of the APCA Readability Criterion (ARC), a next-generation set of guidelines for visual accessibility and readability on electronic displays.
+Andrew Somers is Director of Research at [Inclusive Reading Technologies, Inc.][1], a California nonprofit focused on improving readability for all. He is the creator of the Accessible Perceptual Contrast Algorithm (APCA) and lead author of the APCA Readability Criterion (ARC), a next-generation set of guidelines for visual accessibility and readability on electronic displays.
 
 APCA is the candidate contrast method under evaluation for W3C Accessibility Guidelines (WCAG) 3.0 and has been voluntarily adopted by organizations including Stack Overflow, ServiceNow, and Schibsted Marketplaces. The algorithm is integrated into Chrome DevTools, implemented by over 20 third-party tools and plugins, and referenced in published research from the University of Cambridge, KAIST, and Springer.
 
