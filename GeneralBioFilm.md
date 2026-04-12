@@ -1,39 +1,38 @@
 # Andrew Somers Biography
-A brief general overview, with discussion weighted toward film & digital technology.
 
-## Early Years
-Andrew Somers became interested in visual and performing arts & sciences at a very early age, **starting with photography at age 8** with his first Kodak Brownie camera in the early 1970s, and with a myriad of electronics kits and experiments. At age 10 his school placed him in an experimental **advanced program for gifted children** following exceptionally high testing _(California MGM)_. This advanced program focused on developing skills which are still useful as **a life-long learner**, and included afternoon classs at the near-by Westminster college once a week. By age 11 Andrew wrote, drew, and animated his first animated short, shot on Super-8 film.
+Andrew Somers is Director of Research at Inclusive Reading Technologies, Inc., a California nonprofit dedicated to improving readability for all. He is the creator of the Accessible Perceptual Contrast Algorithm (APCA) and lead author of the APCA Readability Criterion (ARC), a next-generation framework for visual accessibility and readability on electronic displays.
 
-In the mid 1970s, some years before the _IBM PC_, Andrew was **introduced to computer programming** via acoustical modem to the local college mainframe (working with line-numbered Fortran IV & BASIC). This was also the era of experimental electronic music, when Andrew had the opportunity to experiment with a MiniMoog. Andrew **realized the potentials for merging technology and art**, which became the underlying theme of his life's work.
+### The Science of Seeing
 
-### _Life Long Learning_
-As a teenager, Andrew played a Miraphone in the local symphony orchestra, and worked in the layout/production department as Production Manager of his college newspaper—this was well before desktop publishing, when layouts were completed with razor blades and wax. At Western Washington University, Andrew became involved at the college radio station, getting his first broadcasting license in 1979. There he learned multi-track recording, and actively pursued performing arts, playing in Summer Stock, before entering professional broadcast radio, thanks to the guidance from his friend and classmate _Glenn Beck_.
+APCA addresses a fundamental problem in web accessibility: the existing method for measuring text contrast, adopted in 2008, produces systematic false passes and false fails because it does not account for how human vision actually processes contrast on self-illuminated displays. APCA is grounded in decades of peer-reviewed vision science — including color appearance models (CIECAM), contrast sensitivity functions (Barten, Campbell & Robson), and psychophysical readability research (Legge, Peli, Fairchild) — and translates that science into practical, testable guidelines for designers and developers.
 
-## Broadcasting
-For much of the 1980s, he worked in broadcast radio. Engaged not only for his skills in news gathering, writing & producing radio content, but also for his skills in broadcast engineering. This led to a **position as Chief Engineer** for an AM/FM combo in Southern California, and joining the **Society of Broadcast Engineers**. Subsequently, he moved into television when a local television station brought him on to work with the news department. Additionally, he found engineering work with a satellite up-link facility.
+The algorithm is the candidate contrast method under evaluation for W3C Accessibility Guidelines (WCAG) 3.0. It has been voluntarily adopted by organizations including Stack Overflow (which replaced WCAG 2 contrast with APCA as their standard), ServiceNow's Horizon design system, and Schibsted Marketplaces. APCA is integrated into Chrome DevTools, implemented in the color.js library by Lea Verou and Chris Lilley (W3C Technical Director), and supported by over 20 third-party tools and Figma plugins. Independent reviews have been published by researchers at the University of Cambridge, KAIST (Korea), the Oslo School of Architecture and Design, and in Springer's Communications in Computer and Information Science series.
 
-### _Move to Television_
-But Andrew recognized that he needed greater creative challenges. While working on the post-production for a syndicated television program (GLOW), he was offered a **creative position in sound and music** for the show, and he jumped at the chance. This led to his first professional credits as a **Director of Photography** with the same production company. He has since developed a lengthy list of credits and awards, including **three Emmy awards**, two of which were as supervising sound designer for **"Beakman's World"** (CBS).
+### From Hollywood to Accessibility
 
-## Technology Evangelist
-He was also sound effects supervisor & SFX mixer for **"Mighty Morphin' Power Rangers"** (FOX), this show was among the **first to employ digital sound technology** for editing sound for picture, the Fairlight MFX2. Andrew was instrumental in evaluating the available systems and **developing the first digital workflows** for production use, on a show with a high workload and short deadlines. This was in the infancy of digital technology for film and TV, well before _ProTools_ was capable of the task. Andrew became a **technology evangelist for digital film tools**, particularly Fairlight, and this led to some significant feature-film credits, including **"Flubber"** _(he developed the sound of flubber itself)_, **"The Thin Red Line"**, **"The Matrix"**, **"Deep Impact"** and others.
+Andrew's expertise in color and visual perception is not academic in origin — it is rooted in more than 35 years of hands-on professional experience in the Hollywood film and television industry. Beginning in broadcast engineering in the 1980s, he transitioned into television production, earning three Emmy awards, including two as supervising sound designer for the CBS series *Beakman's World*.
 
-### _The Future of the Past was Digital_
-By the late 1990's digital picture editorial was becoming the rage. Andrew rode the **wave of rapidly emerging digital imaging technologies**, as the film industry transitioned from chemical imaging (film) to digital. In addition to being **the "go-to" guy for solving intractable problems** relating to these technologies, Andrew is frequently called upon for visual effects, title design, and research & development for special technical solutions. Some of these projects included **"TRON: Legacy"**, **"Terminator: Salvation"**, **"Beauty and the Beast"** (live action), **"The Fourth Kind"**.
+As a technology evangelist during the film industry's transition from chemical imaging to digital, Andrew became known as a problem-solver for complex technical challenges on major studio productions. His feature credits include visual effects and post-production work on *The Matrix*, *TRON: Legacy*, *Terminator: Salvation*, *The Thin Red Line*, *Deep Impact*, and Disney's live-action *Beauty and the Beast*. He developed some of the earliest digital workflows for production use and was instrumental in evaluating and deploying emerging digital tools, including the Fairlight MFX2 digital audio system for FOX's *Mighty Morphin' Power Rangers*.
 
-## Members Only
-As an actor and voiceover artist, he's a member of the **Screen Actor's Guild**, and is cast most often for his commanding presence. He's a member of the **Editor's Guild** in Hollywood as a film editor and visual effects supervisor, and works on major studio feature films. Also a member of **Academy of Television Arts and Sciences**, and formerly, industry advisor and director of technology for the non-profit **Filmmaker's Alliance**.
+He is a member of the Motion Picture Editors Guild, Screen Actors Guild, and the Academy of Television Arts and Sciences.
 
-### _But the Squirrels Tho_
-He writes articles on filmmaking technology, color, imaging, and typography for industry trade publications, and gives seminars and leads discussion groups on film related technologies, with an emphasis on digital filmmaking and post production. He was formerly a columnist for the New York Times' About.com sites, where he wrote a column on civil rights, constitutional law, and civil liberties. His other interests include industrial design, invention, writing, flying, restoring old cars & old appliances, and cats.
+### A Personal Stake
 
-## Current Focus
-Andrew is conducting research and investigations into human vision, contrast, and color perception—his life-long passion and hyperfocus. He is developing leading edge methods and guidelines for future standards for content designers, aimed toward improving readability of text and providing greater visual accessibility for displays and devices. He is currently Director of Research for [Inclusive Reading Technologies, Inc.][1], a California non-profit. 
+Several years ago, Andrew's own eyesight became severely impaired due to early-onset cataracts and related complications. Rather than allow decades of color science knowledge to go to waste, he redirected his research toward visual accessibility — bringing the same rigorous, empirical approach he had applied to digital imaging in Hollywood to the problem of readability on screens.
+
+As an Invited Expert at the W3C Web Accessibility Initiative, he led the Visual Contrast subgroup of the Silver (WCAG 3) task force, where he developed APCA and its associated readability guidelines. His work is published in Smashing Magazine, UX Collective, and referenced across the accessibility, design, and color science communities.
+
+### The Readability Crisis
+
+Andrew's current mission extends beyond web standards. Research indicates that reading has declined significantly in the era of electronic media — by some measures, as much as 40%. He views this as both an accessibility crisis and a civic one: populations that do not read are populations vulnerable to manipulation. His work at Inclusive Reading Technologies is focused on ensuring that display technology serves readability rather than undermining it, through better contrast methods, better typography guidance, and better understanding of how human vision interacts with the screens we spend our lives looking at.
+
+-------------
+
+- [Inclusive Reading Technologies, Inc.][1], a California non-profit. 
 - [TangledWeb.xyz][2] a blog on information technology and web design.
 - [Orcid reference: 0000-0001-6574-3997][3]
 - [LinkedIn Profile][4]
 - [APCA Linktree of resources][5]
-
 
 [1]: https://readtech.org/ARC/
 [2]: https://tangledweb.xyz
